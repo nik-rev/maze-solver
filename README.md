@@ -2,9 +2,9 @@
 
 Non-exam assessment contributing for A Level Computer Science OCR exam taken in July 2024.
 
-See `a-level-computer-science-ocr-maze-program.pdf` for the document sent to OCR.
+See [`a-level-computer-science-ocr-maze-program.pdf`](https://github.com/nikitarevenco/a-level-computer-science-ocr-project-maze-program/blob/main/a-level-computer-science-ocr-maze-program.pdf) for the document sent to OCR.
 
-See `maze-program/init.py` for the code.
+See [`maze-program/init.py`](https://github.com/nikitarevenco/a-level-computer-science-ocr-project-maze-program/blob/main/maze-program/index.py) for the code.
 
 ## Features
 
