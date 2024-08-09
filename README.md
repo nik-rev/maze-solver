@@ -19,6 +19,6 @@ For more information see `a-level-computer-science-ocr-maze-program.pdf`.
 ## Running locally
 
 1. Clone this repository.
-2. Run `'Maze Program Code'/maze-program.py` with python.
+2. Run `maze-program/index.py` with python.
 
 ## Screenshots
