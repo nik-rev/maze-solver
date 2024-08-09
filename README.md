@@ -24,7 +24,7 @@ See `maze-program/init.py` for the code.
 2. Run `source maze-program/venv/bin/activate`.
 3. Run `python maze-program/index.py`.
 
-### Admin credentials
+Admin credentials
 - username: `admin123`.
 - password: `admin123`.
 
