@@ -1,6 +1,7 @@
 # A Level Computer Science OCR Maze Program Project
 
 Non-exam assessment contributing for A Level Computer Science OCR exam taken in July 2024.
+
 For more information see `a-level-computer-science-ocr-maze-program.pdf`.
 
 ## Features
@@ -22,4 +23,11 @@ For more information see `a-level-computer-science-ocr-maze-program.pdf`.
 2. Run `source maze-program/venv/bin/activate`.
 3. Run `python maze-program/index.py`.
 
+### Admin credentials
+- username: `admin123`.
+- password: `admin123`.
+
 ## Screenshots
+![image](https://github.com/user-attachments/assets/fa7d5df4-fcef-4b8e-bc7b-4329c196c67b)
+![image](https://github.com/user-attachments/assets/30386071-5df4-49d3-8636-4466bb9a3431)
+![image](https://github.com/user-attachments/assets/ab79efc6-ca63-44d3-a089-89d75225f52e)
