@@ -19,6 +19,7 @@ For more information see `a-level-computer-science-ocr-maze-program.pdf`.
 ## Running locally
 
 1. Clone this repository.
-2. Run `maze-program/index.py` with python.
+2. Run `source maze-program/venv/bin/activate`.
+3. Run `python maze-program/index.py`.
 
 ## Screenshots
