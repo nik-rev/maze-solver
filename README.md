@@ -1,7 +1,7 @@
-# Maze Program
+# Maze Solver
 
-- Report: [`maze-program.pdf`](maze-program.pdf).
-- Code: [`maze-program.py`](maze-program.py).
+- Report: [`maze-solver.pdf`](./maze-solver.pdf).
+- Code: [`maze-solver.py`](./maze-solver.py).
 
 ## Features
 
