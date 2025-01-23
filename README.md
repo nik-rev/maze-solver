@@ -1,10 +1,7 @@
-# A Level Computer Science OCR Maze Program Project
+# Maze Program
 
-Non-exam assessment contributing for A Level Computer Science OCR exam taken in July 2024.
-
-See [`a-level-computer-science-ocr-maze-program.pdf`](https://github.com/nikitarevenco/a-level-computer-science-ocr-project-maze-program/blob/main/a-level-computer-science-ocr-maze-program.pdf) for the document sent to OCR.
-
-See [`maze-program.py`](https://github.com/nikitarevenco/a-level-computer-science-ocr-project-maze-program/blob/main/maze-program.py) for the code.
+- Report: [`maze-program.pdf`](maze-program.pdf).
+- Code: [`maze-program.py`](maze-program.py).
 
 ## Features
 
