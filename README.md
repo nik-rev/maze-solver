@@ -22,7 +22,7 @@
 2. Create a virtual python environment by running `python -m venv venv`.
 3. Run `source venv/bin/activate`.
 4. Install bcrypt via `pip install bcrypt`.
-5. Run `python maze-program/index.py`.
+5. Run `python maze-solver.py`.
 
 Admin credentials
 
